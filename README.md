@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [rohit-mishra954.vercel.app/](https://rohit-mishra954.vercel.app//)
 
-- 💬 Ask me about **MEAN stack,HTML,CSS and JavaScript**
+- 💬 Ask me about **MERN stack,HTML,CSS and JavaScript**
 
 - 📫 How to reach me **rohitkumarmishra954@gmail.com**
 
