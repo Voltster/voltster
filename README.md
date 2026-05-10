@@ -6,7 +6,20 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **StudyNotion**
+💻 Technical Skills
+Frontend: HTML, CSS, JavaScript, React, Next.js (App & Pages Router), TypeScript, Tailwind CSS
+Animations & Motion: Framer Motion, GSAP
+UI: shadcn/ui, MUI, Chakra UI
+3D & Canvas: React Three Fiber ( &other Three.js-based), Canvas API, Fabric.js
+APIs & Data: REST, GraphQL
+Other: PWA implementation, responsive design, accessibility best practices, documentation, exploring experimental UI patterns
+🧠 Soft Skills
+Strong communication & collaboration
+Adaptability & willingness to learn
+Problem-solving & attention to detail
+Creativity in UI/UX and motion design
+Meeting deadlines
+Proactive
 
 - 👨‍💻 All of my projects are available at [rohit-mishra954.vercel.app/](https://rohit-mishra954.vercel.app//)
 
