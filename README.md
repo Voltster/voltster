@@ -1,356 +1,181 @@
 <div align="center">
 
-# 👋 Hi, I'm **Rohit Kumar Mishra**
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=200&section=header&text=Rohit%20Kumar%20Mishra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Shopify%20%26%20Headless%20Commerce%20%E2%80%A2%20TravelTech&descAlignY=58&descSize=16&descColor=a5b4fc" width="100%" />
 
-### Full-Stack Developer · Frontend Engineer · Shopify & Headless Commerce
+<!-- Typing tagline -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+polished+web+products+end-to-end;SaaS+%C2%B7+CRM+%C2%B7+TravelTech+%C2%B7+E-commerce;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Shopify" /></a>
 
-**I build modern web products, SaaS platforms, CRMs, TravelTech products, e-commerce experiences, and interactive web applications.**
+<br/>
 
-<br />
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rohit--mishra954.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohit-mishra954.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-mishra954)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkumarmishra954@gmail.com)
 
-`Frontend` · `Backend` · `Full-Stack` · `SaaS` · `CRM`
-`TravelTech` · `Shopify` · `Headless Commerce` · `Next.js` · `UI/UX`
-
-<br /><br />
-
-<a href="https://rohit-mishra954.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rohit-mishra954">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rohitkumarmishra954@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=voltster&label=Profile%20Views&color=6366f1&style=flat-square" />
+![Profile Views](https://komarev.com/ghpvc/?username=voltster&label=Profile+Views&color=6366f1&style=flat-square)
 
 </div>
 
 ---
 
-## ✦ About Me
+## ✦ About
 
-I'm a **Full-Stack Developer from India** focused on building polished, scalable, and production-ready digital products.
+**Full-Stack Developer from India** — I ship production-ready products across the full lifecycle: *UI/UX → frontend → APIs → backend → integrations → deployment*.
 
-I work across the entire development lifecycle — from **UI/UX and frontend architecture to APIs, backend systems, databases, integrations, and deployment**.
+<div align="center">
 
-My work includes **Travel CRM platforms, SaaS products, business dashboards, e-commerce websites, Shopify stores, headless commerce applications, landing pages, and interactive web experiences.**
+`SaaS Platforms` `CRM Systems` `TravelTech` `Shopify Stores` `Headless Commerce` `Dashboards` `3D / WebGL` `PWAs`
 
-I enjoy working at the intersection of:
-
-**Design × Engineering × Product**
-
-### What I enjoy building
-
-* ⚡ Modern React & Next.js applications
-* 🧩 SaaS platforms & business tools
-* ✈️ Travel CRM & TravelTech products
-* 🛒 Shopify & headless commerce
-* 📊 Dashboards & operational systems
-* 🔌 REST & GraphQL API integrations
-* 🎨 Design systems & reusable UI
-* ✨ Motion-driven & interactive interfaces
-* 🌐 3D / WebGL experiences
-* 📱 Responsive & PWA applications
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Frontend
+<table>
+<tr>
+  <td width="33%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
-</p>
+**🎨 Frontend**
 
-**Core:**
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Sass`
+![HTML](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass&theme=dark)
+`React` · `Next.js` · `TypeScript` · `Tailwind`
 
----
+**✨ UI · Motion**
 
-## 🎨 UI · Design · Motion
+![UI](https://skillicons.dev/icons?i=figma,materialui&theme=dark)
+`shadcn/ui` · `Framer Motion` · `GSAP`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,materialui" />
-</p>
+  </td>
+  <td width="34%" valign="top">
 
-`shadcn/ui` · `Material UI` · `Chakra UI` · `Figma`
-`Framer Motion` · `GSAP`
+**⚙️ Backend**
 
----
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql&theme=dark)
+`REST` · `GraphQL` · `MongoDB` · `Auth`
 
-## ⚙️ Backend · APIs · Database
+**🧪 Creative Dev**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql" />
-</p>
+![Creative](https://skillicons.dev/icons?i=threejs&theme=dark)
+`Three.js` · `React Three Fiber` · `Canvas` · `WebGL`
 
-**Backend:** `Node.js` · `Express.js`
+  </td>
+  <td width="33%" valign="top">
 
-**APIs:** `REST` · `GraphQL` · `Third-party API Integrations`
+**🛒 Shopify & Commerce**
 
-**Database:** `MongoDB`
+![Shopify](https://skillicons.dev/icons?i=shopify,graphql,nextjs,ts&theme=dark)
+`Liquid` · `Storefront API` · `Headless`
 
-**Application:** `Authentication` · `CRUD` · `Business Logic` · `API Architecture`
+**🛒 What I build with Shopify**
 
----
+`Themes` · `Sections` · `APIs` · `Storefronts`
 
-## 🛒 Shopify · E-Commerce · Headless
-
-I build modern commerce experiences using both **Shopify's native ecosystem and headless architectures**.
-
-### Shopify
-
-* Shopify storefront development
-* Custom themes & sections
-* Liquid customization
-* Product & collection experiences
-* Custom landing pages
-* Shopify API integrations
-* Third-party integrations
-* Responsive storefronts
-* Performance-focused UI
-
-### Headless Commerce
-
-* Shopify Headless
-* Shopify Storefront API
-* GraphQL
-* Next.js + Shopify
-* React-based storefronts
-* Custom product experiences
-* Custom collection experiences
-* API-driven commerce
-* Headless storefront architecture
-
-**Commerce Stack**
-
-`Shopify` · `Liquid` · `Storefront API` · `GraphQL`
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
-
----
-
-## ✈️ TravelTech · Travel CRM
-
-One of the areas I work on is **travel technology and CRM platforms**.
-
-I build interfaces and workflows around real-world travel operations, including:
-
-* 🏨 Accommodation management
-* ✈️ Trip & itinerary management
-* 📅 Trip calendars
-* 👥 Traveller / PAX management
-* 📋 Quotations
-* 💰 Packages & pricing
-* 🧾 Booking workflows
-* 🚐 Transfers
-* 🎯 Activities
-* 👨‍💼 Travel consultant workflows
-* 📊 Operations dashboards
-* 🔗 Shareable quotation pages
-
-### Travel CRM Architecture
-
-```text
-                    TRAVEL CRM
-                        │
-        ┌───────────────┴───────────────┐
-        │                               │
-     FRONTEND                         BACKEND
-        │                               │
- React / Next.js                  APIs / Business Logic
-        │                               │
- UI / Dashboards                    Database
-        │                               │
- Workflows                         Integrations
-        │                               │
-        └───────────────┬───────────────┘
-                        │
-                   DEPLOYMENT
-```
-
-The goal is to turn complex travel operations into **simple, intuitive, and efficient interfaces**.
-
----
-
-# ⚡ What I Build
-
-```text
-┌────────────────────────────────────────────────────────┐
-│                                                        │
-│  🌐 Web Applications       🚀 SaaS Platforms            │
-│                                                        │
-│  🧩 CRM Systems            ✈️ TravelTech                │
-│                                                        │
-│  🛒 Shopify Stores         🔗 Headless Commerce         │
-│                                                        │
-│  📊 Dashboards             🏢 Business Websites         │
-│                                                        │
-│  ✨ Interactive UI         🌐 3D / WebGL Experiences    │
-│                                                        │
-│  📱 PWAs                   🎨 Design Systems             │
-│                                                        │
-└────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🎯 Development Focus
-
-I care about building products that are not only visually polished, but also:
-
-* ⚡ **Fast**
-* 📱 **Responsive**
-* ♿ **Accessible**
-* 🧩 **Maintainable**
-* 🔒 **Reliable**
-* 📈 **Scalable**
-* 🎨 **Consistent**
-* ✨ **Interactive**
-
-> **Good UI isn't just about looking beautiful — it should feel effortless to use.**
-
----
-
-# 🧪 Creative Development
-
-I enjoy experimenting with modern web technologies to create unique digital experiences.
-
-### Exploring
-
-`Framer Motion` · `GSAP` · `Three.js` · `React Three Fiber`
-
-`Canvas API` · `Fabric.js` · `WebGL`
-
-### Things I build
-
-* Interactive hero sections
-* Scroll-based animations
-* Micro-interactions
-* 3D interfaces
-* Canvas experiences
-* Experimental navigation
-* Motion-driven landing pages
-* Creative UI concepts
-
----
-
-# 🏗️ How I Build
-
-```mermaid
-flowchart LR
-    A[Idea] --> B[Research]
-    B --> C[Design]
-    C --> D[Architecture]
-    D --> E[Development]
-    E --> F[API & Backend]
-    F --> G[Testing]
-    G --> H[Optimization]
-    H --> I[Deployment]
-```
-
-My approach combines:
-
-**Product Thinking × Design × Engineering**
-
----
-
-# 🚀 Featured Work
-
-## ✈️ Travel CRM
-
-A travel operations platform focused on managing trips, travellers, accommodations, quotations, bookings, transfers, activities, and operational workflows.
-
-**Focus:**
-`TravelTech` · `CRM` · `Operations` · `Dashboards` · `Quotations`
-
-**Stack:**
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Node.js` · `APIs`
+  </td>
+</tr>
+</table>
 
 ---
 
 ## 🛒 Shopify & Headless Commerce
 
-Modern e-commerce experiences built around:
+<table>
+<tr>
+<td width="50%">
 
-`Shopify` · `Liquid` · `Storefront API` · `GraphQL` · `Next.js` · `React`
+**Native Shopify**
 
-Focused on **custom storefronts, responsive experiences, performance, and scalable commerce architecture.**
+- 🎨 Custom themes & Liquid sections
+- 🏪 Product, collection & landing pages
+- 🔌 Admin API & third-party integrations
+- ⚡ Performance-focused storefronts
 
----
+</td>
+<td width="50%">
 
-## 🌐 Business & SaaS Applications
+**Headless Architecture**
 
-I build websites and applications for:
+- 🚀 Shopify Storefront API (GraphQL)
+- ⚛️ Next.js + React storefronts
+- 🧩 Custom product & cart experiences
+- 📡 Fully API-driven commerce
 
-* Startups
-* SaaS products
-* Agencies
-* Travel companies
-* E-commerce brands
-* Education platforms
-* Business services
-* Personal brands
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=voltster&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltster&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=voltster&theme=transparent&hide_border=true" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Contributions
+## ✈️ TravelTech & CRM
+
+End-to-end travel operations platforms — complex workflows turned into simple interfaces:
+
+`Accommodation` · `Itineraries` · `Trip Calendars` · `PAX Management` · `Quotations` · `Packages` · `Bookings` · `Transfers` · `Activities` · `Consultant Workflows` · `Ops Dashboards`
+
+**Stack:** `Next.js` · `TypeScript` · `Node.js` · `REST / GraphQL` · `MongoDB`
+
+---
+
+## ⚡ What I Build
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Voltster&limit=5&layout=compact&border_radius=10&theme=transparent" />
+| 🌐 Web Apps | 🚀 SaaS | 🧩 CRM | ✈️ TravelTech |
+|---|---|---|---|
+| 🛒 Shopify / Headless | 📊 Dashboards | 🏢 Business Sites | ✨ Interactive UI |
+| 🌐 3D / WebGL | 📱 PWAs | 🔌 API Integrations | 🎨 Design Systems |
 
 </div>
 
 ---
 
-# 🤝 Let's Build Something
+## 🏗️ How I Build
 
-I'm always interested in building interesting products, solving challenging problems, and exploring new ideas.
+```mermaid
+flowchart LR
+    A[Idea] --> B[Design]
+    B --> C[Architecture]
+    C --> D[Develop]
+    D --> E[Backend & APIs]
+    E --> F[Optimize]
+    F --> G[Ship 🚀]
+```
 
-Whether it's a **SaaS platform, CRM, TravelTech product, Shopify store, headless commerce application, business website, dashboard, or interactive experience** — I enjoy turning ideas into working products.
+**Product Thinking × Design × Engineering** — fast ⚡ · responsive 📱 · accessible ♿ · scalable 📈
 
-<br />
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://rohit-mishra954.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-000000?style=for-the-badge" />
-</a>
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=voltster&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltster&layout=compact&hide_border=true&theme=tokyonight" height="165" />
+</td>
+</tr>
+</table>
 
-<a href="https://www.linkedin.com/in/rohit-mishra954">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=voltster&theme=tokyonight&hide_border=true" />
 
-<a href="mailto:rohitkumarmishra954@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</div>
 
-<br /><br />
+---
 
-### ⚡ Build · Ship · Learn · Repeat
+<div align="center">
+
+## 🤝 Let's Build Something
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge)](https://rohit-mishra954.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-mishra954)
+[![Email](https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkumarmishra954@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4f46e5,100:0f172a&height=120&section=footer&text=Build%20%C2%B7%20Ship%20%C2%B7%20Learn%20%C2%B7%20Repeat&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 </div>
